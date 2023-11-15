@@ -1,17 +1,3 @@
-<style type="text/css">
-   /* Indent Formatting */
-   /* Format: 1-a-i-1-A-I */
-   ol {list-style-type: decimal;}
-   ol ol { list-style-type: lower-alpha;}
-   ol ol ol { list-style-type: lower-roman;}
-   ol ol ol ol { list-style-type: decimal;}
-   ol ol ol ol ol { list-style-type: upper-alpha;}
-   ol ol ol ol ol ol { list-style-type: upper-roman;}
-   /* https://www.w3schools.com/cssref/pr_list-style-type.asp */
-   /* https://stackoverflow.com/questions/11445453/css-set-li-indent */
-   /* https://stackoverflow.com/questions/13366820/how-do-you-make-lettered-lists-using-markdown */
-</style>
-
 # Install Foundry VTT on raspberry pi
 ## Introduction
 1. [Foundry Virtual Table Top](https://foundryvtt.com/)
